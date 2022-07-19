@@ -64,3 +64,9 @@ form {
   color: #b6b6b6;
   text-decoration: line-through;
 }
+
+small {
+  color: #5b5b5b;
+  margin-top: 3rem;
+  text-align: center;
+}
