@@ -28,3 +28,32 @@ form {
   max-width: 100%;
   width: 400px;
 }
+
+.input {
+  border: none;
+  width: 100%;
+  color: #444;
+  font-size: 2rem;
+  padding: 1rem 2rem;
+  display: block;
+}
+
+.input::placeholder {
+  color: #d5d5d5;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.todos {
+  background-color: #fff;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.todos li {
+  border: 1px solid #e5e5e5;
+  cursor: pointer;
+}
