@@ -43,7 +43,7 @@ form {
 }
 
 .input:focus {
-  outline: none;
+  outline-color: rgb(179, 131, 226);
 }
 
 .todos {
