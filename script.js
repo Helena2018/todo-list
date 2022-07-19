@@ -24,6 +24,8 @@ function addTodo(todo) {
     todoEl.innerHTML = todoText
 
     todosUL.appendChild(todoEl)
+
+    input.value = ''
     
   }
 }
