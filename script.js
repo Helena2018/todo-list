@@ -40,6 +40,12 @@ function addTodo(todo) {
     todosUL.appendChild(todoEl)
 
     input.value = ''
+
+    updateLS()
   }
+}
+
+function updateLS() {
+  
 }
 
