@@ -57,10 +57,10 @@ form {
   border: 1px solid #e5e5e5;
   cursor: pointer;
   padding: 1rem 2rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 
 .todos li.completed {
-  color: #d5d5d5;
+  color: #b6b6b6;
   text-decoration: line-through;
 }
